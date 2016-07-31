@@ -12,7 +12,6 @@ import android.widget.ImageView;
 import android.widget.ListView;
 
 import butterknife.Bind;
-import butterknife.ButterKnife;
 import butterknife.OnClick;
 import peiniwan.youzhizhe.com.peiniwan.ChoiceCity.CityActivity;
 import peiniwan.youzhizhe.com.peiniwan.R;
@@ -23,8 +22,6 @@ import peiniwan.youzhizhe.com.peiniwan.R;
 public class BlankFragment1 extends Fragment {
 
 
-    @Bind(R.id.imageView1)
-    ImageView imageView1;
     private LayoutInflater mInflater;
     private View layout;
 
@@ -33,7 +30,6 @@ public class BlankFragment1 extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        ButterKnife.bind(this, layout);
         if (layout == null) {
             mInflater = inflater;
             initUi(inflater);
@@ -53,21 +49,22 @@ public class BlankFragment1 extends Fragment {
         this.mInflater = inflater;
         layout = inflater.inflate(R.layout.frag_blank1, null);
         ListView guangCh_lv = (ListView) layout.findViewById(R.id.guangchang_listview);
+        final ImageView cityChoice= (ImageView) layout.findViewById(R.id.imageView1);
+        cityChoice.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getContext(), CityActivity.class);
+                startActivityForResult(intent , 0);
+            }
+        });
         MyAdapter myAdapter = new MyAdapter();
         guangCh_lv.setAdapter(myAdapter);
 
     }
 
-    @Override
-    public void onDestroyView() {
-        super.onDestroyView();
-        ButterKnife.unbind(this);
-    }
-
     @OnClick(R.id.imageView1)
     public void onClick() {
-        Intent intent = new Intent(getActivity(), CityActivity.class);
-        startActivityForResult(intent, 0);
+
     }
 
 

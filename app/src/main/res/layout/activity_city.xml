@@ -19,8 +19,7 @@
             android:dividerHeight="0dp"
             android:divider="#00000000"/>
 
-        <peiniwan.youzhizhe.com.peiniwan.ChoiceCity.view.LetterSideBar
-            android:id="@+id/citylist_alpha_bar"
+        <peiniwan.youzhizhe.com.peiniwan.ChoiceCity.view.LetterSideBar            android:id="@+id/citylist_alpha_bar"
             android:layout_width="30.0dip"
             android:layout_height="fill_parent"
             android:layout_gravity="center|right"
