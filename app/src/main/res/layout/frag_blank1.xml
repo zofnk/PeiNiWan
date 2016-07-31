@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="#f0f0f0" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:src="@mipmap/ic_guangchang_locate" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/imageView1"
+            android:text="北京市"
+            android:textSize="10dp" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/imageView1"
+            android:src="@mipmap/ic_guangchuang_filter" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignTop="@+id/imageView3"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/radio0"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:button="@null"
+                android:gravity="center_horizontal"
+                android:text="热门"
+                android:textSize="15sp"
+                android:layout_gravity="center"
+                />
+
+            <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:text="附近"
+                android:gravity="center"
+                android:textSize="15sp"
+                android:layout_gravity="center"
+                />
+        </RadioGroup>
+
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/guangchang_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/RelativeLayout2" >
+    </ListView>
+
+</RelativeLayout>

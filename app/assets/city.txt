@@ -1,0 +1,2943 @@
+{
+    "all": [
+        {
+            "city": {
+                "name": "北京",
+                "pinyin": "bei jing",
+                "code": "110100"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "天津",
+                "pinyin": "tian jin",
+                "code": "120100"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "石家庄",
+                "pinyin": "shi jia zhuang",
+                "code": "130100"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "唐山",
+                "pinyin": "tang shan",
+                "code": "130200"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "秦皇岛",
+                "pinyin": "qin huang dao",
+                "code": "130300"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "邯郸",
+                "pinyin": "han dan",
+                "code": "130400"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "邢台",
+                "pinyin": "xing tai",
+                "code": "130500"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "保定",
+                "pinyin": "bao ding",
+                "code": "130600"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "张家口",
+                "pinyin": "zhang jia kou",
+                "code": "130700"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "承德",
+                "pinyin": "cheng de",
+                "code": "130800"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "沧州",
+                "pinyin": "cang zhou",
+                "code": "130900"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "廊坊",
+                "pinyin": "lang fang",
+                "code": "131000"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "衡水",
+                "pinyin": "heng shui",
+                "code": "131100"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "定州",
+                "pinyin": "ding zhou",
+                "code": "139001"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "辛集",
+                "pinyin": "xin ji",
+                "code": "139002"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "太原",
+                "pinyin": "tai yuan",
+                "code": "140100"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "大同",
+                "pinyin": "da tong",
+                "code": "140200"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "阳泉",
+                "pinyin": "yang quan",
+                "code": "140300"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "长治",
+                "pinyin": "zhang zhi",
+                "code": "140400"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "晋城",
+                "pinyin": "jin cheng",
+                "code": "140500"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "朔州",
+                "pinyin": "shuo zhou",
+                "code": "140600"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "晋中",
+                "pinyin": "jin zhong",
+                "code": "140700"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "运城",
+                "pinyin": "yun cheng",
+                "code": "140800"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "忻州",
+                "pinyin": "xin zhou",
+                "code": "140900"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "临汾",
+                "pinyin": "lin fen",
+                "code": "141000"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "吕梁",
+                "pinyin": "lu liang",
+                "code": "141100"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "呼和浩特",
+                "pinyin": "hu he hao te",
+                "code": "150100"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "包头",
+                "pinyin": "bao tou",
+                "code": "150200"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "乌海",
+                "pinyin": "wu hai",
+                "code": "150300"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "赤峰",
+                "pinyin": "chi feng",
+                "code": "150400"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "通辽",
+                "pinyin": "tong liao",
+                "code": "150500"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "鄂尔多斯",
+                "pinyin": "e er duo si",
+                "code": "150600"
+            },
+            "first": "e"
+        },
+        {
+            "city": {
+                "name": "呼伦贝尔",
+                "pinyin": "hu lun bei er",
+                "code": "150700"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "巴彦淖尔",
+                "pinyin": "ba yan nao er",
+                "code": "150800"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "乌兰察布",
+                "pinyin": "wu lan cha bu",
+                "code": "150900"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "兴安盟",
+                "pinyin": "xing an meng",
+                "code": "152200"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "锡林郭勒",
+                "pinyin": "xi lin guo le",
+                "code": "152500"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "阿拉善",
+                "pinyin": "a la shan",
+                "code": "152900"
+            },
+            "first": "a"
+        },
+        {
+            "city": {
+                "name": "沈阳",
+                "pinyin": "shen yang",
+                "code": "210100"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "大连",
+                "pinyin": "da lian",
+                "code": "210200"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "鞍山",
+                "pinyin": "an shan",
+                "code": "210300"
+            },
+            "first": "a"
+        },
+        {
+            "city": {
+                "name": "抚顺",
+                "pinyin": "fu shun",
+                "code": "210400"
+            },
+            "first": "f"
+        },
+        {
+            "city": {
+                "name": "本溪",
+                "pinyin": "ben xi",
+                "code": "210500"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "丹东",
+                "pinyin": "dan dong",
+                "code": "210600"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "锦州",
+                "pinyin": "jin zhou",
+                "code": "210700"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "营口",
+                "pinyin": "ying kou",
+                "code": "210800"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "阜新",
+                "pinyin": "fu xin",
+                "code": "210900"
+            },
+            "first": "f"
+        },
+        {
+            "city": {
+                "name": "辽阳",
+                "pinyin": "liao yang",
+                "code": "211000"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "盘锦",
+                "pinyin": "pan jin",
+                "code": "211100"
+            },
+            "first": "p"
+        },
+        {
+            "city": {
+                "name": "铁岭",
+                "pinyin": "tie ling",
+                "code": "211200"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "朝阳",
+                "pinyin": "chao yang",
+                "code": "211300"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "葫芦岛",
+                "pinyin": "hu lu dao",
+                "code": "211400"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "长春",
+                "pinyin": "zhang chun",
+                "code": "220100"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "吉林",
+                "pinyin": "ji lin",
+                "code": "220200"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "四平",
+                "pinyin": "si ping",
+                "code": "220300"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "辽源",
+                "pinyin": "liao yuan",
+                "code": "220400"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "通化",
+                "pinyin": "tong hua",
+                "code": "220500"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "白山",
+                "pinyin": "bai shan",
+                "code": "220600"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "松原",
+                "pinyin": "song yuan",
+                "code": "220700"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "白城",
+                "pinyin": "bai cheng",
+                "code": "220800"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "延边",
+                "pinyin": "yan bian",
+                "code": "222400"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "哈尔滨",
+                "pinyin": "ha er bin",
+                "code": "230100"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "齐齐哈尔",
+                "pinyin": "qi qi ha er",
+                "code": "230200"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "鸡西",
+                "pinyin": "ji xi",
+                "code": "230300"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "鹤岗",
+                "pinyin": "he gang",
+                "code": "230400"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "双鸭山",
+                "pinyin": "shuang ya shan",
+                "code": "230500"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "大庆",
+                "pinyin": "da qing",
+                "code": "230600"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "伊春",
+                "pinyin": "yi chun",
+                "code": "230700"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "佳木斯",
+                "pinyin": "jia mu si",
+                "code": "230800"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "七台河",
+                "pinyin": "qi tai he",
+                "code": "230900"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "牡丹江",
+                "pinyin": "mu dan jiang",
+                "code": "231000"
+            },
+            "first": "m"
+        },
+        {
+            "city": {
+                "name": "黑河",
+                "pinyin": "hei he",
+                "code": "231100"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "绥化",
+                "pinyin": "sui hua",
+                "code": "231200"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "大兴安岭地",
+                "pinyin": "da xing an ling di",
+                "code": "232700"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "上海",
+                "pinyin": "shang hai",
+                "code": "310100"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "南京",
+                "pinyin": "nan jing",
+                "code": "320100"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "无锡",
+                "pinyin": "wu xi",
+                "code": "320200"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "徐州",
+                "pinyin": "xu zhou",
+                "code": "320300"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "常州",
+                "pinyin": "chang zhou",
+                "code": "320400"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "苏州",
+                "pinyin": "su zhou",
+                "code": "320500"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "南通",
+                "pinyin": "nan tong",
+                "code": "320600"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "连云港",
+                "pinyin": "lian yun gang",
+                "code": "320700"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "淮安",
+                "pinyin": "huai an",
+                "code": "320800"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "盐城",
+                "pinyin": "yan cheng",
+                "code": "320900"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "扬州",
+                "pinyin": "yang zhou",
+                "code": "321000"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "镇江",
+                "pinyin": "zhen jiang",
+                "code": "321100"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "泰州",
+                "pinyin": "tai zhou",
+                "code": "321200"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "宿迁",
+                "pinyin": "xiu qian",
+                "code": "321300"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "杭州",
+                "pinyin": "hang zhou",
+                "code": "330100"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "宁波",
+                "pinyin": "ning bo",
+                "code": "330200"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "温州",
+                "pinyin": "wen zhou",
+                "code": "330300"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "嘉兴",
+                "pinyin": "jia xing",
+                "code": "330400"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "湖州",
+                "pinyin": "hu zhou",
+                "code": "330500"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "绍兴",
+                "pinyin": "shao xing",
+                "code": "330600"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "金华",
+                "pinyin": "jin hua",
+                "code": "330700"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "衢州",
+                "pinyin": "qu zhou",
+                "code": "330800"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "舟山",
+                "pinyin": "zhou shan",
+                "code": "330900"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "台州",
+                "pinyin": "tai zhou",
+                "code": "331000"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "丽水",
+                "pinyin": "li shui",
+                "code": "331100"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "合肥",
+                "pinyin": "he fei",
+                "code": "340100"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "芜湖",
+                "pinyin": "wu hu",
+                "code": "340200"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "蚌埠",
+                "pinyin": "bang bu",
+                "code": "340300"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "淮南",
+                "pinyin": "huai nan",
+                "code": "340400"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "马鞍山",
+                "pinyin": "ma an shan",
+                "code": "340500"
+            },
+            "first": "m"
+        },
+        {
+            "city": {
+                "name": "淮北",
+                "pinyin": "huai bei",
+                "code": "340600"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "铜陵",
+                "pinyin": "tong ling",
+                "code": "340700"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "安庆",
+                "pinyin": "an qing",
+                "code": "340800"
+            },
+            "first": "a"
+        },
+        {
+            "city": {
+                "name": "黄山",
+                "pinyin": "huang shan",
+                "code": "341000"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "滁州",
+                "pinyin": "chu zhou",
+                "code": "341100"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "阜阳",
+                "pinyin": "fu yang",
+                "code": "341200"
+            },
+            "first": "f"
+        },
+        {
+            "city": {
+                "name": "宿州",
+                "pinyin": "xiu zhou",
+                "code": "341300"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "六安",
+                "pinyin": "liu an",
+                "code": "341500"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "亳州",
+                "pinyin": "bo zhou",
+                "code": "341600"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "池州",
+                "pinyin": "chi zhou",
+                "code": "341700"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "宣城",
+                "pinyin": "xuan cheng",
+                "code": "341800"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "福州",
+                "pinyin": "fu zhou",
+                "code": "350100"
+            },
+            "first": "f"
+        },
+        {
+            "city": {
+                "name": "厦门",
+                "pinyin": "sha men",
+                "code": "350200"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "莆田",
+                "pinyin": "pu tian",
+                "code": "350300"
+            },
+            "first": "p"
+        },
+        {
+            "city": {
+                "name": "三明",
+                "pinyin": "san ming",
+                "code": "350400"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "泉州",
+                "pinyin": "quan zhou",
+                "code": "350500"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "漳州",
+                "pinyin": "zhang zhou",
+                "code": "350600"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "南平",
+                "pinyin": "nan ping",
+                "code": "350700"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "龙岩",
+                "pinyin": "long yan",
+                "code": "350800"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "宁德",
+                "pinyin": "ning de",
+                "code": "350900"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "南昌",
+                "pinyin": "nan chang",
+                "code": "360100"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "景德镇",
+                "pinyin": "jing de zhen",
+                "code": "360200"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "萍乡",
+                "pinyin": "ping xiang",
+                "code": "360300"
+            },
+            "first": "p"
+        },
+        {
+            "city": {
+                "name": "九江",
+                "pinyin": "jiu jiang",
+                "code": "360400"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "新余",
+                "pinyin": "xin yu",
+                "code": "360500"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "鹰潭",
+                "pinyin": "ying tan",
+                "code": "360600"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "赣州",
+                "pinyin": "gan zhou",
+                "code": "360700"
+            },
+            "first": "g"
+        },
+        {
+            "city": {
+                "name": "吉安",
+                "pinyin": "ji an",
+                "code": "360800"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "宜春",
+                "pinyin": "yi chun",
+                "code": "360900"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "抚州",
+                "pinyin": "fu zhou",
+                "code": "361000"
+            },
+            "first": "f"
+        },
+        {
+            "city": {
+                "name": "上饶",
+                "pinyin": "shang rao",
+                "code": "361100"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "济南",
+                "pinyin": "ji nan",
+                "code": "370100"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "青岛",
+                "pinyin": "qing dao",
+                "code": "370200"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "淄博",
+                "pinyin": "zi bo",
+                "code": "370300"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "枣庄",
+                "pinyin": "zao zhuang",
+                "code": "370400"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "东营",
+                "pinyin": "dong ying",
+                "code": "370500"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "烟台",
+                "pinyin": "yan tai",
+                "code": "370600"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "潍坊",
+                "pinyin": "wei fang",
+                "code": "370700"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "济宁",
+                "pinyin": "ji ning",
+                "code": "370800"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "泰安",
+                "pinyin": "tai an",
+                "code": "370900"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "威海",
+                "pinyin": "wei hai",
+                "code": "371000"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "日照",
+                "pinyin": "ri zhao",
+                "code": "371100"
+            },
+            "first": "r"
+        },
+        {
+            "city": {
+                "name": "莱芜",
+                "pinyin": "lai wu",
+                "code": "371200"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "临沂",
+                "pinyin": "lin yi",
+                "code": "371300"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "德州",
+                "pinyin": "de zhou",
+                "code": "371400"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "聊城",
+                "pinyin": "liao cheng",
+                "code": "371500"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "滨州",
+                "pinyin": "bin zhou",
+                "code": "371600"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "菏泽",
+                "pinyin": "he ze",
+                "code": "371700"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "郑州",
+                "pinyin": "zheng zhou",
+                "code": "410100"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "开封",
+                "pinyin": "kai feng",
+                "code": "410200"
+            },
+            "first": "k"
+        },
+        {
+            "city": {
+                "name": "洛阳",
+                "pinyin": "luo yang",
+                "code": "410300"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "平顶山",
+                "pinyin": "ping ding shan",
+                "code": "410400"
+            },
+            "first": "p"
+        },
+        {
+            "city": {
+                "name": "安阳",
+                "pinyin": "an yang",
+                "code": "410500"
+            },
+            "first": "a"
+        },
+        {
+            "city": {
+                "name": "鹤壁",
+                "pinyin": "he bi",
+                "code": "410600"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "新乡",
+                "pinyin": "xin xiang",
+                "code": "410700"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "焦作",
+                "pinyin": "jiao zuo",
+                "code": "410800"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "濮阳",
+                "pinyin": "pu yang",
+                "code": "410900"
+            },
+            "first": "p"
+        },
+        {
+            "city": {
+                "name": "许昌",
+                "pinyin": "xu chang",
+                "code": "411000"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "漯河",
+                "pinyin": "luo he",
+                "code": "411100"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "三门峡",
+                "pinyin": "san men xia",
+                "code": "411200"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "南阳",
+                "pinyin": "nan yang",
+                "code": "411300"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "商丘",
+                "pinyin": "shang qiu",
+                "code": "411400"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "信阳",
+                "pinyin": "xin yang",
+                "code": "411500"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "周口",
+                "pinyin": "zhou kou",
+                "code": "411600"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "驻马店",
+                "pinyin": "zhu ma dian",
+                "code": "411700"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "济源",
+                "pinyin": "ji yuan",
+                "code": "419001"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "武汉",
+                "pinyin": "wu han",
+                "code": "420100"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "黄石",
+                "pinyin": "huang shi",
+                "code": "420200"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "十堰",
+                "pinyin": "shi yan",
+                "code": "420300"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "宜昌",
+                "pinyin": "yi chang",
+                "code": "420500"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "襄阳",
+                "pinyin": "xiang yang",
+                "code": "420600"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "鄂州",
+                "pinyin": "e zhou",
+                "code": "420700"
+            },
+            "first": "e"
+        },
+        {
+            "city": {
+                "name": "荆门",
+                "pinyin": "jing men",
+                "code": "420800"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "孝感",
+                "pinyin": "xiao gan",
+                "code": "420900"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "荆州",
+                "pinyin": "jing zhou",
+                "code": "421000"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "黄冈",
+                "pinyin": "huang gang",
+                "code": "421100"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "咸宁",
+                "pinyin": "xian ning",
+                "code": "421200"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "随州",
+                "pinyin": "sui zhou",
+                "code": "421300"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "恩施",
+                "pinyin": "en shi",
+                "code": "422800"
+            },
+            "first": "e"
+        },
+        {
+            "city": {
+                "name": "仙桃",
+                "pinyin": "xian tao",
+                "code": "429004"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "潜江",
+                "pinyin": "qian jiang",
+                "code": "429005"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "天门",
+                "pinyin": "tian men",
+                "code": "429006"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "神农架",
+                "pinyin": "shen nong jia",
+                "code": "429021"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "长沙",
+                "pinyin": "zhang sha",
+                "code": "430100"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "株洲",
+                "pinyin": "zhu zhou",
+                "code": "430200"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "湘潭",
+                "pinyin": "xiang tan",
+                "code": "430300"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "衡阳",
+                "pinyin": "heng yang",
+                "code": "430400"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "邵阳",
+                "pinyin": "shao yang",
+                "code": "430500"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "岳阳",
+                "pinyin": "yue yang",
+                "code": "430600"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "常德",
+                "pinyin": "chang de",
+                "code": "430700"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "张家界",
+                "pinyin": "zhang jia jie",
+                "code": "430800"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "益阳",
+                "pinyin": "yi yang",
+                "code": "430900"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "郴州",
+                "pinyin": "chen zhou",
+                "code": "431000"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "永州",
+                "pinyin": "yong zhou",
+                "code": "431100"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "怀化",
+                "pinyin": "huai hua",
+                "code": "431200"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "娄底",
+                "pinyin": "lou di",
+                "code": "431300"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "湘西",
+                "pinyin": "xiang xi",
+                "code": "433100"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "广州",
+                "pinyin": "guang zhou",
+                "code": "440100"
+            },
+            "first": "g"
+        },
+        {
+            "city": {
+                "name": "韶关",
+                "pinyin": "shao guan",
+                "code": "440200"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "深圳",
+                "pinyin": "shen zhen",
+                "code": "440300"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "珠海",
+                "pinyin": "zhu hai",
+                "code": "440400"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "汕头",
+                "pinyin": "shan tou",
+                "code": "440500"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "佛山",
+                "pinyin": "fo shan",
+                "code": "440600"
+            },
+            "first": "f"
+        },
+        {
+            "city": {
+                "name": "江门",
+                "pinyin": "jiang men",
+                "code": "440700"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "湛江",
+                "pinyin": "zhan jiang",
+                "code": "440800"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "茂名",
+                "pinyin": "mao ming",
+                "code": "440900"
+            },
+            "first": "m"
+        },
+        {
+            "city": {
+                "name": "肇庆",
+                "pinyin": "zhao qing",
+                "code": "441200"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "惠州",
+                "pinyin": "hui zhou",
+                "code": "441300"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "梅州",
+                "pinyin": "mei zhou",
+                "code": "441400"
+            },
+            "first": "m"
+        },
+        {
+            "city": {
+                "name": "汕尾",
+                "pinyin": "shan wei",
+                "code": "441500"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "河源",
+                "pinyin": "he yuan",
+                "code": "441600"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "阳江",
+                "pinyin": "yang jiang",
+                "code": "441700"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "清远",
+                "pinyin": "qing yuan",
+                "code": "441800"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "东莞",
+                "pinyin": "dong wan",
+                "code": "441900"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "中山",
+                "pinyin": "zhong shan",
+                "code": "442000"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "潮州",
+                "pinyin": "chao zhou",
+                "code": "445100"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "揭阳",
+                "pinyin": "jie yang",
+                "code": "445200"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "云浮",
+                "pinyin": "yun fu",
+                "code": "445300"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "南宁",
+                "pinyin": "nan ning",
+                "code": "450100"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "柳州",
+                "pinyin": "liu zhou",
+                "code": "450200"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "桂林",
+                "pinyin": "gui lin",
+                "code": "450300"
+            },
+            "first": "g"
+        },
+        {
+            "city": {
+                "name": "梧州",
+                "pinyin": "wu zhou",
+                "code": "450400"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "北海",
+                "pinyin": "bei hai",
+                "code": "450500"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "防城港",
+                "pinyin": "fang cheng gang",
+                "code": "450600"
+            },
+            "first": "f"
+        },
+        {
+            "city": {
+                "name": "钦州",
+                "pinyin": "qin zhou",
+                "code": "450700"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "贵港",
+                "pinyin": "gui gang",
+                "code": "450800"
+            },
+            "first": "g"
+        },
+        {
+            "city": {
+                "name": "玉林",
+                "pinyin": "yu lin",
+                "code": "450900"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "百色",
+                "pinyin": "bai se",
+                "code": "451000"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "贺州",
+                "pinyin": "he zhou",
+                "code": "451100"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "河池",
+                "pinyin": "he chi",
+                "code": "451200"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "来宾",
+                "pinyin": "lai bin",
+                "code": "451300"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "崇左",
+                "pinyin": "chong zuo",
+                "code": "451400"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "海口",
+                "pinyin": "hai kou",
+                "code": "460100"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "三亚",
+                "pinyin": "san ya",
+                "code": "460200"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "三沙",
+                "pinyin": "san sha",
+                "code": "460300"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "五指山",
+                "pinyin": "wu zhi shan",
+                "code": "469001"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "琼海",
+                "pinyin": "qiong hai",
+                "code": "469002"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "儋州",
+                "pinyin": "dan zhou",
+                "code": "469003"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "文昌",
+                "pinyin": "wen chang",
+                "code": "469005"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "万宁",
+                "pinyin": "wan ning",
+                "code": "469006"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "东方",
+                "pinyin": "dong fang",
+                "code": "469007"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "定安",
+                "pinyin": "ding an",
+                "code": "469021"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "屯昌",
+                "pinyin": "tun chang",
+                "code": "469022"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "澄迈",
+                "pinyin": "cheng mai",
+                "code": "469023"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "临高",
+                "pinyin": "lin gao",
+                "code": "469024"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "白沙",
+                "pinyin": "bai sha",
+                "code": "469025"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "昌江",
+                "pinyin": "chang jiang",
+                "code": "469026"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "乐东",
+                "pinyin": "le dong",
+                "code": "469027"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "陵水",
+                "pinyin": "ling shui",
+                "code": "469028"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "保亭",
+                "pinyin": "bao ting",
+                "code": "469029"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "琼中",
+                "pinyin": "qiong zhong",
+                "code": "469030"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "重庆",
+                "pinyin": "chong qing",
+                "code": "500100"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "成都",
+                "pinyin": "cheng dou",
+                "code": "510100"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "自贡",
+                "pinyin": "zi gong",
+                "code": "510300"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "攀枝花",
+                "pinyin": "pan zhi hua",
+                "code": "510400"
+            },
+            "first": "p"
+        },
+        {
+            "city": {
+                "name": "泸州",
+                "pinyin": "lu zhou",
+                "code": "510500"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "德阳",
+                "pinyin": "de yang",
+                "code": "510600"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "绵阳",
+                "pinyin": "mian yang",
+                "code": "510700"
+            },
+            "first": "m"
+        },
+        {
+            "city": {
+                "name": "广元",
+                "pinyin": "guang yuan",
+                "code": "510800"
+            },
+            "first": "g"
+        },
+        {
+            "city": {
+                "name": "遂宁",
+                "pinyin": "sui ning",
+                "code": "510900"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "内江",
+                "pinyin": "nei jiang",
+                "code": "511000"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "乐山",
+                "pinyin": "le shan",
+                "code": "511100"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "南充",
+                "pinyin": "nan chong",
+                "code": "511300"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "眉山",
+                "pinyin": "mei shan",
+                "code": "511400"
+            },
+            "first": "m"
+        },
+        {
+            "city": {
+                "name": "宜宾",
+                "pinyin": "yi bin",
+                "code": "511500"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "广安",
+                "pinyin": "guang an",
+                "code": "511600"
+            },
+            "first": "g"
+        },
+        {
+            "city": {
+                "name": "达州",
+                "pinyin": "da zhou",
+                "code": "511700"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "雅安",
+                "pinyin": "ya an",
+                "code": "511800"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "巴中",
+                "pinyin": "ba zhong",
+                "code": "511900"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "资阳",
+                "pinyin": "zi yang",
+                "code": "512000"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "阿坝",
+                "pinyin": "a ba",
+                "code": "513200"
+            },
+            "first": "a"
+        },
+        {
+            "city": {
+                "name": "甘孜",
+                "pinyin": "gan zi",
+                "code": "513300"
+            },
+            "first": "g"
+        },
+        {
+            "city": {
+                "name": "凉山",
+                "pinyin": "liang shan",
+                "code": "513400"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "贵阳",
+                "pinyin": "gui yang",
+                "code": "520100"
+            },
+            "first": "g"
+        },
+        {
+            "city": {
+                "name": "六盘水",
+                "pinyin": "liu pan shui",
+                "code": "520200"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "遵义",
+                "pinyin": "zun yi",
+                "code": "520300"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "安顺",
+                "pinyin": "an shun",
+                "code": "520400"
+            },
+            "first": "a"
+        },
+        {
+            "city": {
+                "name": "毕节",
+                "pinyin": "bi jie",
+                "code": "520500"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "铜仁",
+                "pinyin": "tong ren",
+                "code": "520600"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "黔西南",
+                "pinyin": "qian xi nan",
+                "code": "522300"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "黔东南",
+                "pinyin": "qian dong nan",
+                "code": "522600"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "黔南布",
+                "pinyin": "qian nan bu",
+                "code": "522700"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "昆明",
+                "pinyin": "kun ming",
+                "code": "530100"
+            },
+            "first": "k"
+        },
+        {
+            "city": {
+                "name": "曲靖",
+                "pinyin": "qu jing",
+                "code": "530300"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "玉溪",
+                "pinyin": "yu xi",
+                "code": "530400"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "保山",
+                "pinyin": "bao shan",
+                "code": "530500"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "昭通",
+                "pinyin": "zhao tong",
+                "code": "530600"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "丽江",
+                "pinyin": "li jiang",
+                "code": "530700"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "普洱",
+                "pinyin": "pu er",
+                "code": "530800"
+            },
+            "first": "p"
+        },
+        {
+            "city": {
+                "name": "临沧",
+                "pinyin": "lin cang",
+                "code": "530900"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "楚雄",
+                "pinyin": "chu xiong",
+                "code": "532300"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "红河",
+                "pinyin": "hong he",
+                "code": "532500"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "文山",
+                "pinyin": "wen shan",
+                "code": "532600"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "西双版纳",
+                "pinyin": "xi shuang ban na",
+                "code": "532800"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "大理",
+                "pinyin": "da li",
+                "code": "532900"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "德宏",
+                "pinyin": "de hong",
+                "code": "533100"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "怒江",
+                "pinyin": "nu jiang",
+                "code": "533300"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "迪庆",
+                "pinyin": "di qing",
+                "code": "533400"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "拉萨",
+                "pinyin": "la sa",
+                "code": "540100"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "日喀则",
+                "pinyin": "ri ka ze",
+                "code": "540200"
+            },
+            "first": "r"
+        },
+        {
+            "city": {
+                "name": "昌都",
+                "pinyin": "chang dou",
+                "code": "542100"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "山南",
+                "pinyin": "shan nan",
+                "code": "542200"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "那曲",
+                "pinyin": "na qu",
+                "code": "542400"
+            },
+            "first": "n"
+        },
+        {
+            "city": {
+                "name": "阿里",
+                "pinyin": "a li",
+                "code": "542500"
+            },
+            "first": "a"
+        },
+        {
+            "city": {
+                "name": "林芝",
+                "pinyin": "lin zhi",
+                "code": "542600"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "西安",
+                "pinyin": "xi an",
+                "code": "610100"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "铜川",
+                "pinyin": "tong chuan",
+                "code": "610200"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "宝鸡",
+                "pinyin": "bao ji",
+                "code": "610300"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "咸阳",
+                "pinyin": "xian yang",
+                "code": "610400"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "渭南",
+                "pinyin": "wei nan",
+                "code": "610500"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "延安",
+                "pinyin": "yan an",
+                "code": "610600"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "汉中",
+                "pinyin": "han zhong",
+                "code": "610700"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "榆林",
+                "pinyin": "yu lin",
+                "code": "610800"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "安康",
+                "pinyin": "an kang",
+                "code": "610900"
+            },
+            "first": "a"
+        },
+        {
+            "city": {
+                "name": "商洛",
+                "pinyin": "shang luo",
+                "code": "611000"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "兰州",
+                "pinyin": "lan zhou",
+                "code": "620100"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "嘉峪关",
+                "pinyin": "jia yu guan",
+                "code": "620200"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "金昌",
+                "pinyin": "jin chang",
+                "code": "620300"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "白银",
+                "pinyin": "bai yin",
+                "code": "620400"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "天水",
+                "pinyin": "tian shui",
+                "code": "620500"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "武威",
+                "pinyin": "wu wei",
+                "code": "620600"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "张掖",
+                "pinyin": "zhang ye",
+                "code": "620700"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "平凉",
+                "pinyin": "ping liang",
+                "code": "620800"
+            },
+            "first": "p"
+        },
+        {
+            "city": {
+                "name": "酒泉",
+                "pinyin": "jiu quan",
+                "code": "620900"
+            },
+            "first": "j"
+        },
+        {
+            "city": {
+                "name": "庆阳",
+                "pinyin": "qing yang",
+                "code": "621000"
+            },
+            "first": "q"
+        },
+        {
+            "city": {
+                "name": "定西",
+                "pinyin": "ding xi",
+                "code": "621100"
+            },
+            "first": "d"
+        },
+        {
+            "city": {
+                "name": "陇南",
+                "pinyin": "long nan",
+                "code": "621200"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "临夏",
+                "pinyin": "lin xia",
+                "code": "622900"
+            },
+            "first": "l"
+        },
+        {
+            "city": {
+                "name": "甘南",
+                "pinyin": "gan nan",
+                "code": "623000"
+            },
+            "first": "g"
+        },
+        {
+            "city": {
+                "name": "西宁",
+                "pinyin": "xi ning",
+                "code": "630100"
+            },
+            "first": "x"
+        },
+        {
+            "city": {
+                "name": "海东",
+                "pinyin": "hai dong",
+                "code": "630200"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "海北",
+                "pinyin": "hai bei",
+                "code": "632200"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "黄南",
+                "pinyin": "huang nan",
+                "code": "632300"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "海南",
+                "pinyin": "hai nan",
+                "code": "632500"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "果洛",
+                "pinyin": "guo luo",
+                "code": "632600"
+            },
+            "first": "g"
+        },
+        {
+            "city": {
+                "name": "玉树",
+                "pinyin": "yu shu",
+                "code": "632700"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "海西",
+                "pinyin": "hai xi",
+                "code": "632800"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "银川",
+                "pinyin": "yin chuan",
+                "code": "640100"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "石嘴山",
+                "pinyin": "shi zui shan",
+                "code": "640200"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "吴忠",
+                "pinyin": "wu zhong",
+                "code": "640300"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "固原",
+                "pinyin": "gu yuan",
+                "code": "640400"
+            },
+            "first": "g"
+        },
+        {
+            "city": {
+                "name": "中卫",
+                "pinyin": "zhong wei",
+                "code": "640500"
+            },
+            "first": "z"
+        },
+        {
+            "city": {
+                "name": "乌鲁木齐",
+                "pinyin": "wu lu mu qi",
+                "code": "650100"
+            },
+            "first": "w"
+        },
+        {
+            "city": {
+                "name": "克拉玛依",
+                "pinyin": "ke la ma yi",
+                "code": "650200"
+            },
+            "first": "k"
+        },
+        {
+            "city": {
+                "name": "吐鲁番",
+                "pinyin": "tu lu fan",
+                "code": "652100"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "哈密",
+                "pinyin": "ha mi",
+                "code": "652200"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "昌吉",
+                "pinyin": "chang ji",
+                "code": "652300"
+            },
+            "first": "c"
+        },
+        {
+            "city": {
+                "name": "博尔塔拉",
+                "pinyin": "bo er ta la",
+                "code": "652700"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "巴音郭楞",
+                "pinyin": "ba yin guo leng",
+                "code": "652800"
+            },
+            "first": "b"
+        },
+        {
+            "city": {
+                "name": "阿克苏",
+                "pinyin": "a ke su",
+                "code": "652900"
+            },
+            "first": "a"
+        },
+        {
+            "city": {
+                "name": "克孜勒苏柯尔克孜",
+                "pinyin": "ke zi le su ke er ke zi",
+                "code": "653000"
+            },
+            "first": "k"
+        },
+        {
+            "city": {
+                "name": "喀什",
+                "pinyin": "ka shi",
+                "code": "653100"
+            },
+            "first": "k"
+        },
+        {
+            "city": {
+                "name": "和田",
+                "pinyin": "he tian",
+                "code": "653200"
+            },
+            "first": "h"
+        },
+        {
+            "city": {
+                "name": "伊犁",
+                "pinyin": "yi li",
+                "code": "654000"
+            },
+            "first": "y"
+        },
+        {
+            "city": {
+                "name": "塔城",
+                "pinyin": "ta chengu",
+                "code": "654200"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "阿勒泰",
+                "pinyin": "a le tai",
+                "code": "654300"
+            },
+            "first": "a"
+        },
+        {
+            "city": {
+                "name": "石河子",
+                "pinyin": "shi he zi",
+                "code": "659001"
+            },
+            "first": "s"
+        },
+        {
+            "city": {
+                "name": "阿拉尔",
+                "pinyin": "a la er",
+                "code": "659002"
+            },
+            "first": "a"
+        },
+        {
+            "city": {
+                "name": "图木舒克",
+                "pinyin": "tu mu shu ke",
+                "code": "659003"
+            },
+            "first": "t"
+        },
+        {
+            "city": {
+                "name": "五家渠",
+                "pinyin": "wu jia qu",
+                "code": "659004"
+            },
+            "first": "w"
+        }
+    ],
+    "heat": [
+        {
+            "name": "北京",
+            "pinyin": "bei jing",
+            "code": "110100"
+        },
+        {
+            "name": "上海",
+            "pinyin": "shang hai",
+            "code": "310100"
+        },
+        {
+            "name": "广州",
+            "pinyin": "guang zhou",
+            "code": "440100"
+        },
+        {
+            "name": "深圳",
+            "pinyin": "shen zhen",
+            "code": "440300"
+        },
+        {
+            "name": "厦门",
+            "pinyin": "xia men",
+            "code": "350200"
+        }
+    ]
+}

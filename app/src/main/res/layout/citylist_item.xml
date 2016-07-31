@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="12dp"
+    android:paddingTop="6dp"
+    android:paddingBottom="6dp"
+    android:orientation="vertical"
+    android:background="#FFFFFF" >
+
+    <TextView
+        android:id="@+id/citylist_letter_textview"
+        android:layout_width="50.0dip"
+        android:layout_height="50.0dip"
+        android:layout_marginBottom="10.0dip"
+        android:layout_marginTop="10.0dip"
+        android:background="@drawable/bg_citylist_letter"
+        android:clickable="false"
+        android:gravity="center"
+        android:text="A"
+        android:textColor="@color/black3"
+        android:textSize="32.0sp" />
+
+    <TextView
+        android:id="@+id/citylist_textview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_row_selector"
+        android:gravity="center_vertical"
+        android:paddingBottom="12.0dip"
+        android:paddingTop="12.0dip"
+        android:text="厦门"
+        android:textColor="@color/black2"
+        android:textSize="16.0sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0dip"
+        android:background="@color/citylist_divider" />
+
+</LinearLayout>

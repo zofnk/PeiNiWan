@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black1">#ff333333</color>
+    <color name="citylist_divider">#ffd8d8d8</color>
+    <color name="background_color">#fff0f0f0</color>
+    <color name="black3">#ff999999</color>
+    <color name="black2">#ff666666</color>
+    <color name="selector_black">#fff2f2f2</color>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/hotel_citylist_search_head" />
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ListView
+            android:id="@+id/list_flight_city"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:listSelector="@null"
+            android:dividerHeight="0dp"
+            android:divider="#00000000"/>
+
+        <peiniwan.youzhizhe.com.peiniwan.ChoiceCity.view.LetterSideBar
+            android:id="@+id/citylist_alpha_bar"
+            android:layout_width="30.0dip"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center|right"
+            android:layout_marginBottom="5.0dip"
+            android:layout_marginRight="2.0dip"
+            android:layout_marginTop="5.0dip"
+            android:background="@null"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:id="@+id/overlay_alpha_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#99000000"
+            android:gravity="center"
+            android:minWidth="60.0dip"
+            android:padding="5.0dip"
+            android:textColor="@android:color/white"
+            android:textSize="50.0sp"
+            android:visibility="gone" />
+
+        <ListView
+            android:id="@+id/list_search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#FFFFFF"
+            android:visibility="gone" >
+        </ListView>
+    </FrameLayout>
+
+</LinearLayout>
